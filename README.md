@@ -66,3 +66,4 @@ cards:
       rows: 5
 column_span: 3
 ```    
+![MeshCore chat log in HA](./screenshot.png)
