@@ -67,4 +67,4 @@ cards:
 column_span: 3
 ```
 It should look like this:   
-![MeshCore chat log in HA](./screenshot.png)
+![MeshCore chat log in HA](./screenshot-ha.png)
