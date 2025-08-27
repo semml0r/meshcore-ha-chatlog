@@ -65,5 +65,6 @@ cards:
       columns: 36
       rows: 5
 column_span: 3
-```    
+```
+It should look like this:   
 ![MeshCore chat log in HA](./screenshot.png)
